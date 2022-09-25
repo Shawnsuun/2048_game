@@ -11,3 +11,6 @@ The game itself is quite simple. It’s played on a 4*4 grid of squares, each of
 
 The player then chooses a direction via their arrow keys to tilt the board: north, south, east, or west. All tiles slide in that direction until there is no empty space left in the direction of motion (there might not be any to start with). A tile can possibly merge with another tile which earns the player points.
 ![Game Example](/example-2048.gif)
+
+Happy to see the game running and pass all tests, enjoy the game! 
+![Game](/20220625153238.jpg)
